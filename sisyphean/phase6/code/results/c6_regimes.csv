@@ -1,0 +1,5 @@
+regime,spec,pi_inf,profitable
+physical_regime,opt,-0.03,False
+physical_regime,rule,0.04,True
+consent_regime,opt,-0.3563,False
+consent_regime,rule,-0.3164,False

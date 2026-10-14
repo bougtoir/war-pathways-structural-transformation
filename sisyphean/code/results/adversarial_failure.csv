@@ -1,0 +1,2 @@
+p_hit_W,p_oscillation,mean_onsets,mean_spell,mean_first_hit,harm_cum_mean,harm_cum_p90,h_final_mean,defender_ok,civilian_ok,displaced_mean,blocked_barrier,blocked_feas,p_K_exit
+1.0,1.0,111.0,134.5,0.0,0.6171150000006402,0.6171150000006401,0.4134999999993972,1.0,0.0,0.0,0.0,0.0,0.0
